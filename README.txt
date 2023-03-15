@@ -1,0 +1,4 @@
+Vzhledem k omezení Portálu aplikace neobsahuje testovací data dodaná v rámci KIV/IR a jejich index - aplikaci je možné vyzkoušet na dodaných datech, resp. si crawlnout data z diit.cz pomocí aplikace.
+Kompletní aplikaci (strukturou složek odpovídající KIV/NET) včetně indexů můžete získat zde: https://drive.google.com/file/d/1rbfMXDK8799fGZrKtuCsUME_IocUT_Ms/view?usp=sharing
+
+UPOZORNĚNÍ: ve vector-mode probíhá výpočet TF-IDF vah dokumentů již při indexování (viz soubor s indexem + komentovaný zdroj. kód) - indexování testovacích dat tedy může trvat déle než lze očekávat a doporučuji využít již sestavený index
